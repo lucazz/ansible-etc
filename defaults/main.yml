@@ -1,0 +1,7 @@
+---
+# defaults file for lucazz.etcd
+etcd:
+  version: "2.3.2"
+  port: 2379
+  arch: "linux-amd64"
+
