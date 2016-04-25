@@ -1,6 +1,7 @@
 ETCD Ansible Role
 =========
 
+[![Build Status](https://travis-ci.org/lucazz/ansible-etcd.svg?branch=master)](https://travis-ci.org/lucazz/ansible-etcd)
 This is a simple ansible role that installs and configures ETCD.
 
 Requirements
