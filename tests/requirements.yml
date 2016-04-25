@@ -1,0 +1,3 @@
+- name: lucazz.etcd
+  src: https://github.com/lucazz/ansible-etcd.git
+
