@@ -45,7 +45,7 @@
 
 - name:  main.yml | Starting etcd up
   service:
-  name: etcd
-  state: started
-  enabled: yes
+    name: etcd
+    state: started
+    enabled: yes
 
